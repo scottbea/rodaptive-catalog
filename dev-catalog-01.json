@@ -1,0 +1,333 @@
+{
+  "Items": {
+    "AdvancedPlayerControlsV2": {
+      "Summary": "Implements a powerful set of advanced player controls for walking, running, crawling, jumping, and more. Super-Jump and Double-Jump are optional (N-Jump as well). Players are limited by a configurable energy level which replenishes over time. Works on Desktop, Mobile, and XBOX.",
+      "Title": "Advanced Player Controls V2",
+      "LastUpdated": 1649048400,
+      "Media": {
+        "Image": "rbxassetid://9605947242",
+        "ImageScale": 1
+      },
+      "Name": "PlayerControlsManagerV2",
+      "Context": {
+        "Installed": false,
+        "Owned": false
+      },
+      "Label": "Player Controls Manager V2",
+      "Category": "FeatureKit",
+      "Product": {
+        "Cost": 4000,
+        "Discount": 0,
+        "License": "Commercial License",
+        "Ver": "2.1.0"
+      },
+      "Type": "Feature Pack",
+      "Id": "5637709778",
+      "Counts": {
+        "UnAllocated": 0,
+        "Allocated": 0,
+        "Max": 0,
+        "Count": 24020,
+        "Min": 0
+      },
+      "Rating": {
+        "RatingStars": 4.8,
+        "RatingCount": 7364
+      },
+      "Publisher": "nuclear cats!",
+      "Role": "Developer",
+      "Styles": []
+    },
+    "WeatherKit": {
+      "Summary": "Provides a rich and powerful set of weather capabilities, including rain, snow, sleet, drizzle, wind, etc. It has multiple kinds of storms, such as summer storms, winter storms, hurricanes, tornados, and typhoons. Has day and night cycle, seasons, and realistic climate options.",
+      "Title": "Weather Kit",
+      "LastUpdated": 1652245200,
+      "Media": {
+        "Image": "rbxassetid://9596738339",
+        "ImageScale": 1
+      },
+      "Name": "WeatherKit",
+      "Publisher": "voxel labs",
+      "Rating": {
+        "RatingStars": 4.2,
+        "RatingCount": 371
+      },
+      "Context": {
+        "Installed": false,
+        "Owned": true
+      },
+      "Label": "Weather Kit",
+      "Category": "FeatureKit",
+      "Product": {
+        "Cost": 0,
+        "Discount": 0,
+        "License": "MIT License",
+        "Ver": "1.2.4"
+      },
+      "Type": "Feature Pack",
+      "Id": "1001",
+      "Counts": {
+        "UnAllocated": 0,
+        "Allocated": 0,
+        "Max": 0,
+        "Count": 0,
+        "Min": 0
+      },
+      "Styles": []
+    }
+  },
+  "Slots": {
+    "Slot5": {
+      "ImageScale": 0.8,
+      "Name": "Slot5",
+      "Label": "Vanilla",
+      "Category": "Meats",
+      "Count": 2,
+      "Image": "rbxassetid://495675538",
+      "Id": "369",
+      "Role": "Ingredient"
+    },
+    "Slot2": {
+      "ImageScale": 0.8,
+      "Name": "Slot2",
+      "Label": "Sugar",
+      "Category": "Meats",
+      "Count": 99,
+      "Image": "rbxassetid://137512734",
+      "Id": "554",
+      "Role": "Ingredient"
+    },
+    "Output": {
+      "ImageScale": 0.8,
+      "Name": "VanillaCake",
+      "Label": "Vanilla Cake",
+      "Category": "Meats",
+      "Count": 1,
+      "Image": "rbxassetid://5079316305",
+      "Id": "168",
+      "Role": "Output"
+    },
+    "Slot3": {
+      "ImageScale": 0.8,
+      "Name": "Slot3",
+      "Label": "Milk",
+      "Category": "Meats",
+      "Count": 1,
+      "Image": "rbxassetid://137510643",
+      "Id": "436",
+      "Role": "Ingredient"
+    },
+    "Slot1": {
+      "ImageScale": 0.8,
+      "Name": "Slot1",
+      "Label": "Egg",
+      "Category": "Meats",
+      "Count": 3,
+      "Image": "rbxassetid://1072895256",
+      "Id": "666",
+      "Role": "Ingredient"
+    },
+    "Slot4": {
+      "ImageScale": 0.8,
+      "Name": "Slot4",
+      "Label": "Flour",
+      "Category": "Meats",
+      "Count": 1,
+      "Image": "rbxassetid://3144257026",
+      "Id": "72",
+      "Role": "Ingredient"
+    },
+    "Fuel1": {
+      "Name": "Fuel1",
+      "Role": "Fuel",
+      "Energy": 1000,
+      "ImageScale": 0.8,
+      "Category": "Meats",
+      "Count": 8,
+      "Image": "rbxassetid://137510638",
+      "Id": "32",
+      "Label": "Lava"
+    },
+    "Slot6": {
+      "ImageScale": 0.8,
+      "Name": "Slot6",
+      "Label": "Cream",
+      "Category": "Meats",
+      "Count": 3,
+      "Image": "rbxassetid://1573719876",
+      "Id": "580",
+      "Role": "Ingredient"
+    },
+    "Slot7": {
+      "ImageScale": 0.8,
+      "Role": "Ingredient",
+      "Label": "",
+      "Image": "rbxassetid://137510638",
+      "Id": "787",
+      "Category": "Meats",
+      "Name": "Slot7"
+    }
+  },
+  "Categories": {
+    "ToolKit": {
+      "ImageRectOffset": {
+        "Vector2": [
+          244,
+          204
+        ]
+      },
+      "ImageScale": 0.8,
+      "Label": "Tool Kits",
+      "Image": "rbxassetid://3926307971",
+      "Id": "5",
+      "Emoji": "🧰",
+      "ImageRectSize": {
+        "Vector2": [
+          36,
+          36
+        ]
+      },
+      "Name": "ToolKit"
+    },
+    "All": {
+      "ImageRectOffset": {
+        "Vector2": [
+          116,
+          4
+        ]
+      },
+      "ImageScale": 0.8,
+      "Label": "All Items",
+      "Image": "rbxassetid://3926305904",
+      "Id": "1",
+      "Emoji": "📦",
+      "ImageRectSize": {
+        "Vector2": [
+          24,
+          24
+        ]
+      },
+      "Name": "All"
+    },
+    "ResourcePack": {
+      "ImageRectOffset": {
+        "Vector2": [
+          984,
+          4
+        ]
+      },
+      "ImageScale": 0.8,
+      "Label": "Resource Packs",
+      "Image": "rbxassetid://3926305904",
+      "Id": "7",
+      "Emoji": "📎",
+      "ImageRectSize": {
+        "Vector2": [
+          36,
+          36
+        ]
+      },
+      "Name": "ResourcePack"
+    },
+    "FeatureKit": {
+      "ImageRectOffset": {
+        "Vector2": [
+          684,
+          44
+        ]
+      },
+      "ImageScale": 0.8,
+      "Label": "Feature Kits",
+      "Image": "rbxassetid://3926307971",
+      "Id": "3",
+      "Emoji": "🧩",
+      "ImageRectSize": {
+        "Vector2": [
+          36,
+          36
+        ]
+      },
+      "Name": "FeatureKit"
+    },
+    "GameKit": {
+      "ImageRectOffset": {
+        "Vector2": [
+          44,
+          284
+        ]
+      },
+      "ImageScale": 0.8,
+      "Label": "Game Kits",
+      "Image": "rbxassetid://3926307971",
+      "Id": "2",
+      "Emoji": "🎁",
+      "ImageRectSize": {
+        "Vector2": [
+          36,
+          36
+        ]
+      },
+      "Name": "GameKit"
+    },
+    "ThemePack": {
+      "ImageRectOffset": {
+        "Vector2": [
+          124,
+          964
+        ]
+      },
+      "ImageScale": 0.8,
+      "Label": "Theme Packs",
+      "Image": "rbxassetid://3926305904",
+      "Id": "8",
+      "Emoji": "✨",
+      "ImageRectSize": {
+        "Vector2": [
+          36,
+          36
+        ]
+      },
+      "Name": "ThemePack"
+    },
+    "SamplePack": {
+      "ImageRectOffset": {
+        "Vector2": [
+          964,
+          44
+        ]
+      },
+      "ImageScale": 0.8,
+      "Label": "Sample Packs",
+      "Image": "rbxassetid://3926307971",
+      "Id": "9",
+      "Emoji": "📁",
+      "ImageRectSize": {
+        "Vector2": [
+          36,
+          36
+        ]
+      },
+      "Name": "SamplePack"
+    },
+    "DeveloperKit": {
+      "ImageRectOffset": {
+        "Vector2": [
+          964,
+          4
+        ]
+      },
+      "ImageScale": 0.8,
+      "Label": "Developer Kits",
+      "Image": "rbxassetid://3926307971",
+      "Id": "4",
+      "Emoji": "🛠️",
+      "ImageRectSize": {
+        "Vector2": [
+          36,
+          36
+        ]
+      },
+      "Name": "DeveloperKit"
+    }
+  }
+}
