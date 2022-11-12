@@ -38,6 +38,44 @@
       "Role": "Developer",
       "Styles": []
     },
+    "InventoryManager": {
+      "Summary": "Implements a core Inventory system for your game. Integrates with a CatalogService and PlayerDataService to track the materials, items, or other resources owned by each player. Supports multiple inventory types, including Universal Inventory, Bank-Managed Inventory, Vault-Based, and Backpack (ephermal) Inventory. Optionally supports encumrance for mass or volume. Persists player inventory data inside the Roblox Data Store (Cloud).",
+      "Title": "Inventory Manager",
+      "LastUpdated": 1649048400,
+      "Media": {
+        "Image": "rbxassetid://9606141558",
+        "ImageScale": 1
+      },
+      "Name": "PlayerControlsManagerV2",
+      "Context": {
+        "Installed": false,
+        "Owned": true
+      },
+      "Label": "Inventory Manager",
+      "Category": "FeatureKit",
+      "Product": {
+        "Cost": 0,
+        "Discount": 0,
+        "License": "Commercial License",
+        "Ver": "0.4.2"
+      },
+      "Type": "Feature Pack",
+      "Id": "4768073688",
+      "Counts": {
+        "UnAllocated": 0,
+        "Allocated": 0,
+        "Max": 0,
+        "Count": 812,
+        "Min": 0
+      },
+      "Rating": {
+        "RatingStars": 3.1,
+        "RatingCount": 43
+      },
+      "Publisher": "voxel labs",
+      "Role": "Developer",
+      "Styles": []
+    },
     "WeatherKit": {
       "Summary": "Provides a rich and powerful set of weather capabilities, including rain, snow, sleet, drizzle, wind, etc. It has multiple kinds of storms, such as summer storms, winter storms, hurricanes, tornados, and typhoons. Has day and night cycle, seasons, and realistic climate options.",
       "Title": "Weather Kit",
