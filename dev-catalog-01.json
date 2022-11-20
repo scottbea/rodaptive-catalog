@@ -1,7 +1,7 @@
 {
   "Items": {
     "AdvancedPlayerControlsV2": {
-      "Summary": "Implements a powerful set of advanced player controls for walking, running, crawling, jumping, and more. Super-Jump and Double-Jump are optional (N-Jump as well). Players are limited by a configurable energy level which replenishes over time. Works on Desktop, Mobile, and XBOX.",
+      "Summary": "Implements a cool set of advanced player controls for walking, running, crawling, jumping, and more. Super-Jump and Double-Jump are optional (N-Jump as well). Players are limited by a configurable energy level which replenishes over time. Works on Desktop, Mobile, and XBOX.",
       "Title": "Advanced Player Controls V2",
       "LastUpdated": 1649048400,
       "Media": {
