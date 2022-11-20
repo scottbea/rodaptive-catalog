@@ -52,7 +52,8 @@
         "Owned": true
       },
       "Label": "Inventory Manager",
-      "Category": "FeatureKit",
+      "Category": "
+      ",
       "Product": {
         "Cost": 0,
         "Discount": 0,
@@ -112,98 +113,43 @@
         "Min": 0
       },
       "Styles": []
-    }
-  },
-  "Slots": {
-    "Slot5": {
-      "ImageScale": 0.8,
-      "Name": "Slot5",
-      "Label": "Vanilla",
-      "Category": "Meats",
-      "Count": 2,
-      "Image": "rbxassetid://495675538",
-      "Id": "369",
-      "Role": "Ingredient"
     },
-    "Slot2": {
-      "ImageScale": 0.8,
-      "Name": "Slot2",
-      "Label": "Sugar",
-      "Category": "Meats",
-      "Count": 99,
-      "Image": "rbxassetid://137512734",
-      "Id": "554",
-      "Role": "Ingredient"
-    },
-    "Output": {
-      "ImageScale": 0.8,
-      "Name": "VanillaCake",
-      "Label": "Vanilla Cake",
-      "Category": "Meats",
-      "Count": 1,
-      "Image": "rbxassetid://5079316305",
-      "Id": "168",
-      "Role": "Output"
-    },
-    "Slot3": {
-      "ImageScale": 0.8,
-      "Name": "Slot3",
-      "Label": "Milk",
-      "Category": "Meats",
-      "Count": 1,
-      "Image": "rbxassetid://137510643",
-      "Id": "436",
-      "Role": "Ingredient"
-    },
-    "Slot1": {
-      "ImageScale": 0.8,
-      "Name": "Slot1",
-      "Label": "Egg",
-      "Category": "Meats",
-      "Count": 3,
-      "Image": "rbxassetid://1072895256",
-      "Id": "666",
-      "Role": "Ingredient"
-    },
-    "Slot4": {
-      "ImageScale": 0.8,
-      "Name": "Slot4",
-      "Label": "Flour",
-      "Category": "Meats",
-      "Count": 1,
-      "Image": "rbxassetid://3144257026",
-      "Id": "72",
-      "Role": "Ingredient"
-    },
-    "Fuel1": {
-      "Name": "Fuel1",
-      "Role": "Fuel",
-      "Energy": 1000,
-      "ImageScale": 0.8,
-      "Category": "Meats",
-      "Count": 8,
-      "Image": "rbxassetid://137510638",
-      "Id": "32",
-      "Label": "Lava"
-    },
-    "Slot6": {
-      "ImageScale": 0.8,
-      "Name": "Slot6",
-      "Label": "Cream",
-      "Category": "Meats",
-      "Count": 3,
-      "Image": "rbxassetid://1573719876",
-      "Id": "580",
-      "Role": "Ingredient"
-    },
-    "Slot7": {
-      "ImageScale": 0.8,
-      "Role": "Ingredient",
-      "Label": "",
-      "Image": "rbxassetid://137510638",
-      "Id": "787",
-      "Category": "Meats",
-      "Name": "Slot7"
+    "MiningGameKitV2": {
+      "Summary": "Add powerful mining to you're game with 256 different ores and materials, 32 different kinds of pickaxes, and amazing special effects. Mine actual Terrain voxels and/or Meshes. Mine metals, crystals, minerals, alien materials, organic materials, and even cryptocurrency (in Cyberspace). Easily customize for your game.",
+      "Title": "Mining Game Kit V2",
+      "LastUpdated": 1652245200,
+      "Media": {
+        "Image": "rbxassetid://9596738483",
+        "ImageScale": 1
+      },
+      "Name": "MiningGameKitV2",
+      "Publisher": "skyquest devs",
+      "Rating": {
+        "RatingStars": 4.9,
+        "RatingCount": 432
+      },
+      "Context": {
+        "Installed": false,
+        "Owned": true
+      },
+      "Label": "Mining Game Kit V2",
+      "Category": "GameKit",
+      "Product": {
+        "Cost": 0,
+        "Discount": 0,
+        "License": "FreePlay",
+        "Ver": "0.6.2"
+      },
+      "Type": "Feature Pack",
+      "Id": "6784613185",
+      "Counts": {
+        "UnAllocated": 0,
+        "Allocated": 1000,
+        "Max": 0,
+        "Count": 76,
+        "Min": 0
+      },
+      "Styles": []
     }
   },
   "Categories": {
